@@ -1,4 +1,4 @@
-package App11;
+package app11;
 
 public class Reptil extends Animal {
 	private String corEscama;

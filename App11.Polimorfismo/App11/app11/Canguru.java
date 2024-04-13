@@ -1,4 +1,4 @@
-package App11;
+package app11;
 
 public class Canguru extends Mamifero {
 	public void usarBolsa() {

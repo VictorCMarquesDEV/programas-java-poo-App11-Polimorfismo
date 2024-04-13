@@ -1,4 +1,4 @@
-package App11;
+package app11;
 
 public class Cachorro extends Mamifero{
 	public void enterrarOsso() {
